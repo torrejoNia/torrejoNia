@@ -7,7 +7,7 @@
 
 - I’m currently playing **Pokemon Silver** (in a thrifted game boy color :D )
 
-- And... I’m also currently developing a **PhD in Health Sciences**
+- And... I’m also currently pursuing a **PhD in Health Sciences** in Lisbon, Portugal
 
 - 📄 Know about my experiences [Read my LinkedIn posts](https://pt.linkedin.com/in/estefania-torrejon-442982184)
 
