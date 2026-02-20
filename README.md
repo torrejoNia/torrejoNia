@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Estefania Torrejon</h1>
+<h1 align="center">Hello, I'm Estefania Torrejón</h1>
 <h3 align="center">A computational biologist from Peru</h3>
 
 - I’m currently working on [EV-Net](https://github.com/torrejoNia/EV-Net): A computational framework to model extracellular vesicles-mediated communication 
